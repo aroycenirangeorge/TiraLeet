@@ -1,14 +1,39 @@
-# TiraLeet
+# 🚀 TiraLeet
 
-TiraLeet is a personal repository containing my **LeetCode solutions implemented exclusively in Java**.  
-The goal of this repository is to strengthen my understanding of **Data Structures and Algorithms** while writing **clean, readable, and efficient Java code**.
+TiraLeet is my personal repository containing **LeetCode solutions implemented exclusively in Java**.  
+This repository is focused on strengthening my understanding of **Data Structures and Algorithms** while maintaining **clean, readable, and efficient Java code**.
 
-Each solution is organized by problem category to make revision easy and to help identify common algorithmic patterns.  
-This repository also serves as a reference for **interview preparation** and consistent problem-solving practice using Java.
+The repository serves as:
+- A structured space for **consistent DSA practice**
+- A **revision-friendly reference**
+- A preparation base for **technical interviews using Java**
 
 ---
 
-## Repository Structure
+## 🗂 Repository Structure
 
-* [Concatenation of Array](Concatenation_of_Array.java)
-* [Sort Colors](Sort_Colors.java)
+| Problem | Java Solution | LeetCode Submission |
+|--------|---------------|---------------------|
+| Concatenation of Array | [`Concatenation_of_Array.java`](Concatenation_of_Array.java) | [View](https://leetcode.com/submissions/detail/1865055263/) |
+| Sort Colors | [`Sort_Colors.java`](Sort_Colors.java) | [View](https://leetcode.com/submissions/detail/1865134820/) |
+| Contains Duplicate | [`Contains_Duplicate.java`](Contains_Duplicate.java) | [View](https://leetcode.com/submissions/detail/1865715153/) |
+
+---
+
+## 🎯 Objectives
+
+- Build strong foundations in **Data Structures and Algorithms**
+- Practice writing **optimized Java solutions**
+- Identify **common algorithmic patterns**
+- Improve **problem-solving consistency**
+
+---
+
+## 🛠 Language Used
+- **Java**
+
+---
+
+## 📌 Note
+This repository is continuously updated as I solve more problems on LeetCode.
+

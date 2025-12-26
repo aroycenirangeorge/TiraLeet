@@ -17,6 +17,7 @@ The repository serves as:
 | Concatenation of Array | [`Concatenation_of_Array.java`](Concatenation_of_Array.java) | [View](https://leetcode.com/submissions/detail/1865055263/) |
 | Sort Colors | [`Sort_Colors.java`](Sort_Colors.java) | [View](https://leetcode.com/submissions/detail/1865134820/) |
 | Contains Duplicate | [`Contains_Duplicate.java`](Contains_Duplicate.java) | [View](https://leetcode.com/submissions/detail/1865715153/) |
+| Top K Frequent Elements | [`Top_K_Frequent_Elements.java`](Top_K_Frequent_Elements.java) | [View](https://leetcode.com/submissions/detail/1865839338/) |
 
 ---
 

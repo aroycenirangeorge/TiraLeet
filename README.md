@@ -20,6 +20,8 @@ The repository serves as:
 | Top K Frequent Elements | [`Top_K_Frequent_Elements.java`](Top_K_Frequent_Elements.java) | [View](https://leetcode.com/submissions/detail/1865839338/) |
 | Valid Anagram | [`Valid_Anagram.java`](Valid_Anagram.java) | [View](https://leetcode.com/submissions/detail/1866686186/) |
 | Best Time to Buy and Sell Stock II | [`Best_Time_to_Buy_and_Sell_Stock_II.java`](Best_Time_to_Buy_and_Sell_Stock_II.java) | [View](https://leetcode.com/submissions/detail/1866726818/) |
+| Two Sum | [`Two_Sum.java`](Two_Sum.java) | [View](https://leetcode.com/submissions/detail/1867239652/) |
+| Majority Element II | [`Majority_Element_II.java`](Majority_Element_II.java) | [View](https://leetcode.com/submissions/detail/1867251823/) |
 
 ---
 

@@ -23,6 +23,7 @@ The repository serves as:
 | Two Sum | [`Two_Sum.java`](Two_Sum.java) | [View](https://leetcode.com/submissions/detail/1867239652/) |
 | Majority Element II | [`Majority_Element_II.java`](Majority_Element_II.java) | [View](https://leetcode.com/submissions/detail/1867251823/) |
 | Count Negative Numbers in a Sorted Matrix | [`Count_Negative_Numbers_in_a_Sorted_Matrix.java`](Count_Negative_Numbers_in_a_Sorted_Matrix.java) | [View](https://leetcode.com/submissions/detail/1867309052/) |
+| Length of Last Word | [`Length_of_Last_Word.java.java`](Length_of_Last_Word.java.java) | [View](https://leetcode.com/submissions/detail/1868611491/) |
 
 ---
 

@@ -26,6 +26,8 @@ The repository serves as:
 | Length of Last Word | [`Length_of_Last_Word.java`](Length_of_Last_Word.java) | [View](https://leetcode.com/submissions/detail/1868611491/) |
 | Remove Element | [`Remove_Element.java`](Remove_Element.java) | [View](https://leetcode.com/submissions/detail/1869041609/) |
 | Longest Consecutive Sequence | [`Longest_Consecutive_Sequence.java`](Longest_Consecutive_Sequence.java) | [View](https://leetcode.com/submissions/detail/1868947396/) |
+| First Missing Positive* | [`First_Missing_Positive.java`](First_Missing_Positive.java) | [View](https://leetcode.com/submissions/detail/1870332859/) |
+
 
 ---
 

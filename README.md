@@ -27,6 +27,8 @@ The repository serves as:
 | Remove Element | [`Remove_Element.java`](Remove_Element.java) | [View](https://leetcode.com/submissions/detail/1869041609/) |
 | Longest Consecutive Sequence | [`Longest_Consecutive_Sequence.java`](Longest_Consecutive_Sequence.java) | [View](https://leetcode.com/submissions/detail/1868947396/) |
 | First Missing Positive* | [`First_Missing_Positive.java`](First_Missing_Positive.java) | [View](https://leetcode.com/submissions/detail/1870332859/) |
+| Reverse String | [`Reverse_String.java`](Reverse_String.java) | [View](https://leetcode.com/submissions/detail/1870775946/) |
+| Two Sum II Input Array is Sorted | [`Two_Sum_II_Input_Array_is_Sorted.java`](Two_Sum_II_Input_Array_is_Sorted.java) | [View](https://leetcode.com/submissions/detail/1870958577/) |
 
 
 ---

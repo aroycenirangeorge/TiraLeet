@@ -29,6 +29,7 @@ The repository serves as:
 | First Missing Positive* | [`First_Missing_Positive.java`](First_Missing_Positive.java) | [View](https://leetcode.com/submissions/detail/1870332859/) |
 | Reverse String | [`Reverse_String.java`](Reverse_String.java) | [View](https://leetcode.com/submissions/detail/1870775946/) |
 | Two Sum II Input Array is Sorted | [`Two_Sum_II_Input_Array_is_Sorted.java`](Two_Sum_II_Input_Array_is_Sorted.java) | [View](https://leetcode.com/submissions/detail/1870958577/) |
+| Plus One | [`Plus_One.java`](Plus_One.java) | [View](https://leetcode.com/submissions/detail/1870983965/) |
 
 
 ---

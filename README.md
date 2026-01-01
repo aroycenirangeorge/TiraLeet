@@ -12,7 +12,7 @@ The repository serves as:
 
 ## 🗂 Repository Structure
 
-| Problem | Java Solution | LeetCode Submission |
+| Problem | Solution | LeetCode Submission |
 |--------|---------------|---------------------|
 | Concatenation of Array | [`Concatenation_of_Array.java`](Concatenation_of_Array.java) | [View](https://leetcode.com/submissions/detail/1865055263/) |
 | Sort Colors | [`Sort_Colors.java`](Sort_Colors.java) | [View](https://leetcode.com/submissions/detail/1865134820/) |

@@ -30,7 +30,7 @@ The repository serves as:
 | Reverse String | [`Reverse_String.java`](Reverse_String.java) | [View](https://leetcode.com/submissions/detail/1870775946/) |
 | Two Sum II Input Array is Sorted | [`Two_Sum_II_Input_Array_is_Sorted.java`](Two_Sum_II_Input_Array_is_Sorted.java) | [View](https://leetcode.com/submissions/detail/1870958577/) |
 | Plus One | [`Plus_One.java`](Plus_One.java) | [View](https://leetcode.com/submissions/detail/1870983965/) |
-
+| N-Repeated Element in Size 2N Array | [`N_Repeated_Element_in_Size_2N_Array.java`](N_Repeated_Element_in_Size_2N_Array.java) | [View](https://leetcode.com/submissions/detail/1871716849/) |
 
 ---
 

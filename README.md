@@ -32,7 +32,7 @@ The repository serves as:
 | Plus One | [`Plus_One.java`](Plus_One.java) | [View](https://leetcode.com/submissions/detail/1870983965/) |
 | N-Repeated Element in Size 2N Array | [`N_Repeated_Element_in_Size_2N_Array.java`](N_Repeated_Element_in_Size_2N_Array.java) | [View](https://leetcode.com/submissions/detail/1871716849/) |
 | Number of Ways to Paint NX3 Grid | [`Number_of_Ways_to_Paint_Nx3_Grid.java`](Number_of_Ways_to_Paint_Nx3_Grid.java) | [View](https://leetcode.com/submissions/detail/1873184141/) |
-| Four Divisors | [`Four_Divisors.java`](Four_Divisors.java) | [View](https://leetcode.com/submissions/detail/1874346533/) |
+| Four Divisors* | [`Four_Divisors.java`](Four_Divisors.java) | [View](https://leetcode.com/submissions/detail/1874346533/) |
 
 ---
 

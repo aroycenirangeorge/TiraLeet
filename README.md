@@ -33,6 +33,8 @@ The repository serves as:
 | N-Repeated Element in Size 2N Array | [`N_Repeated_Element_in_Size_2N_Array.java`](N_Repeated_Element_in_Size_2N_Array.java) | [View](https://leetcode.com/submissions/detail/1871716849/) |
 | Number of Ways to Paint NX3 Grid | [`Number_of_Ways_to_Paint_Nx3_Grid.java`](Number_of_Ways_to_Paint_Nx3_Grid.java) | [View](https://leetcode.com/submissions/detail/1873184141/) |
 | Four Divisors* | [`Four_Divisors.java`](Four_Divisors.java) | [View](https://leetcode.com/submissions/detail/1874346533/) |
+| Score of a String | [`Score_of_a_String.java`](Score_of_a_String.java) | [View](https://leetcode.com/submissions/detail/1875324490/) |
+| Product of Array Except Self | [`Product_of_Array_Except_Self.java`](Product_of_Array_Except_Self.java) | [View](https://leetcode.com/submissions/detail/1875376721/) |
 
 ---
 

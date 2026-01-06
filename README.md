@@ -35,6 +35,8 @@ The repository serves as:
 | Four Divisors* | [`Four_Divisors.java`](Four_Divisors.java) | [View](https://leetcode.com/submissions/detail/1874346533/) |
 | Score of a String | [`Score_of_a_String.java`](Score_of_a_String.java) | [View](https://leetcode.com/submissions/detail/1875324490/) |
 | Product of Array Except Self | [`Product_of_Array_Except_Self.java`](Product_of_Array_Except_Self.java) | [View](https://leetcode.com/submissions/detail/1875376721/) |
+| Majority Element | [`Majority_Element.java`](Majority_Element.java) | [View](https://leetcode.com/submissions/detail/1876432490/) |
+| Merge Strings Alternately | [`Merge_Strings_Alternately.java`](Merge_Strings_Alternately.java) | [View](https://leetcode.com/submissions/detail/1876446168/) |
 
 ---
 

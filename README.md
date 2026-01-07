@@ -37,6 +37,7 @@ The repository serves as:
 | Product of Array Except Self | [`Product_of_Array_Except_Self.java`](Product_of_Array_Except_Self.java) | [View](https://leetcode.com/submissions/detail/1875376721/) |
 | Majority Element | [`Majority_Element.java`](Majority_Element.java) | [View](https://leetcode.com/submissions/detail/1876432490/) |
 | Merge Strings Alternately | [`Merge_Strings_Alternately.java`](Merge_Strings_Alternately.java) | [View](https://leetcode.com/submissions/detail/1876446168/) |
+| Replace Elements with Greatest Element on Right Side | [`Replace_Elements_with_Greatest_Element_on_Right_Side.java`](Replace_Elements_with_Greatest_Element_on_Right_Side.java) | [View](https://leetcode.com/submissions/detail/1877913509/) |
 
 ---
 

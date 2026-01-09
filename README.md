@@ -39,6 +39,8 @@ The repository serves as:
 | Merge Strings Alternately | [`Merge_Strings_Alternately.java`](Merge_Strings_Alternately.java) | [View](https://leetcode.com/submissions/detail/1876446168/) |
 | Replace Elements with Greatest Element on Right Side | [`Replace_Elements_with_Greatest_Element_on_Right_Side.java`](Replace_Elements_with_Greatest_Element_on_Right_Side.java) | [View](https://leetcode.com/submissions/detail/1877913509/) |
 | Is Subsequence | [`Is_Subsequence.java`](Is_Subsequence.java) | [View](https://leetcode.com/submissions/detail/1878728639/) |
+| Group Anagrams | [`Group_Anagrams.java`](Group_Anagrams.java) | [View](https://leetcode.com/submissions/detail/1879535380/) |
+| Valid Palindrome | [`Valid_Palindrome.java`](Valid_Palindrome.java) | [View](https://leetcode.com/submissions/detail/1879600867/) |
 
 ---
 

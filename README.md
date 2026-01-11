@@ -42,6 +42,7 @@ The repository serves as:
 | Group Anagrams | [`Group_Anagrams.java`](Group_Anagrams.java) | [View](https://leetcode.com/submissions/detail/1879535380/) |
 | Valid Palindrome | [`Valid_Palindrome.java`](Valid_Palindrome.java) | [View](https://leetcode.com/submissions/detail/1879600867/) |
 | Count Equal and Divisible Pairs in an Array | [`Count_Equal_and_Divisible_Pairs_in_an_Array.java`](Count_Equal_and_Divisible_Pairs_in_an_Array.java) | [View](https://leetcode.com/submissions/detail/1880771472/) |
+| Container with Most Water | [`Container_with_Most_Water.java`](Container_with_Most_Water.java) | [View](https://leetcode.com/submissions/detail/1881431982/) |
 
 ---
 

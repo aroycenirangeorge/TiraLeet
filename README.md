@@ -44,6 +44,9 @@ The repository serves as:
 | Count Equal and Divisible Pairs in an Array | [`Count_Equal_and_Divisible_Pairs_in_an_Array.java`](Count_Equal_and_Divisible_Pairs_in_an_Array.java) | [View](https://leetcode.com/submissions/detail/1880771472/) |
 | Container with Most Water | [`Container_with_Most_Water.java`](Container_with_Most_Water.java) | [View](https://leetcode.com/submissions/detail/1881431982/) |
 | Shuffle the Array | [`Shuffle_the_Array.java`](Shuffle_the_Array.java) | [View](https://leetcode.com/submissions/detail/1882947174/) |
+| Search a 2D Matrix | [`Search_a_2D_Matrix.java`](Search_a_2D_Matrix.java) | [View](https://leetcode.com/submissions/detail/1883656569/) |
+| Find Numbers with Even Number of Digits | [`Find_Numbers_with_Even_Number_of_Digits.java`](Find_Numbers_with_Even_Number_of_Digits.java) | [View](https://leetcode.com/submissions/detail/1883663534/) |
+
 
 ---
 

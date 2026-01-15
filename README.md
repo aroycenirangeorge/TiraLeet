@@ -47,6 +47,8 @@ The repository serves as:
 | Search a 2D Matrix I | [`Search_a_2D_Matrix_I.java`](Search_a_2D_Matrix_I.java) | [View](https://leetcode.com/submissions/detail/1883656569/) |
 | Find Numbers with Even Number of Digits | [`Find_Numbers_with_Even_Number_of_Digits.java`](Find_Numbers_with_Even_Number_of_Digits.java) | [View](https://leetcode.com/submissions/detail/1883663534/) |
 | Richest Customer Wealth | [`Richest_Customer_Wealth.java`](Richest_Customer_Wealth.java) | [View](https://leetcode.com/submissions/detail/1884922763/) |
+| Max Consecutive Ones | [`Max_Consecutive_Ones.java`](Max_Consecutive_Ones.java) | [View](https://leetcode.com/submissions/detail/1885469217/) |
+| Set Mismatch | [`Set_Mismatch.java`](Set_Mismatch.java) | [View](https://leetcode.com/submissions/detail/1885518432/) |
 
 ---
 

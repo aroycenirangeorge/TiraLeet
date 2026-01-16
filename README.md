@@ -49,6 +49,7 @@ The repository serves as:
 | Richest Customer Wealth | [`Richest_Customer_Wealth.java`](Richest_Customer_Wealth.java) | [View](https://leetcode.com/submissions/detail/1884922763/) |
 | Max Consecutive Ones | [`Max_Consecutive_Ones.java`](Max_Consecutive_Ones.java) | [View](https://leetcode.com/submissions/detail/1885469217/) |
 | Set Mismatch | [`Set_Mismatch.java`](Set_Mismatch.java) | [View](https://leetcode.com/submissions/detail/1885518432/) |
+| Kids with the Greatest Number of Candies| [`Kids_with_the_Greatest_Number_of_Candies.java`](Kids_with_the_Greatest_Number_of_Candies.java) | [View](https://leetcode.com/submissions/detail/1886716315/) |
 
 ---
 

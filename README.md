@@ -51,6 +51,7 @@ The repository serves as:
 | Set Mismatch | [`Set_Mismatch.java`](Set_Mismatch.java) | [View](https://leetcode.com/submissions/detail/1885518432/) |
 | Kids with the Greatest Number of Candies| [`Kids_with_the_Greatest_Number_of_Candies.java`](Kids_with_the_Greatest_Number_of_Candies.java) | [View](https://leetcode.com/submissions/detail/1886716315/) |
 | Valid Parentheses | [`Valid_Parentheses.java`](Valid_Parentheses.java) | [View](https://leetcode.com/submissions/detail/1887617821/) |
+| Min Stack* | [`Min_Stack.java`](Min_Stack.java) | [View](https://leetcode.com/submissions/detail/1888528711/) |
 
 ---
 
@@ -70,4 +71,5 @@ The repository serves as:
 
 ## 📌 Note
 This repository is continuously updated as I solve more problems on LeetCode.
+* problems needs to be corrected and simplified.
 

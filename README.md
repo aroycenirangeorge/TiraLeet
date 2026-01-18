@@ -70,6 +70,6 @@ The repository serves as:
 ---
 
 ## 📌 Note
-This repository is continuously updated as I solve more problems on LeetCode.
-* problems needs to be corrected and simplified.
+- This repository is continuously updated as I solve more problems on LeetCode.
+- Starred(*) problems needs to be corrected and simplified.
 

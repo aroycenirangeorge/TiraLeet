@@ -53,6 +53,7 @@ The repository serves as:
 | Valid Parentheses | [`Valid_Parentheses.java`](Valid_Parentheses.java) | [View](https://leetcode.com/submissions/detail/1887617821/) |
 | Min Stack* | [`Min_Stack.java`](Min_Stack.java) | [View](https://leetcode.com/submissions/detail/1888528711/) |
 | Remove All Adjacent Duplicates in String | [`Remove_All_Adjacent_Duplicates_in_String.java`](Remove_All_Adjacent_Duplicates_in_String.java) | [View](https://leetcode.com/submissions/detail/1890063963/) |
+| Implement Queue Using Stacks | [`Implement_Queue_Using_Stacks.java`](Implement_Queue_Using_Stacks.java) | [View](https://leetcode.com/submissions/detail/1891235439/) |
 
 ---
 

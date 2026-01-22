@@ -55,6 +55,7 @@ The repository serves as:
 | Remove All Adjacent Duplicates in String | [`Remove_All_Adjacent_Duplicates_in_String.java`](Remove_All_Adjacent_Duplicates_in_String.java) | [View](https://leetcode.com/submissions/detail/1890063963/) |
 | Implement Queue Using Stacks | [`Implement_Queue_Using_Stacks.java`](Implement_Queue_Using_Stacks.java) | [View](https://leetcode.com/submissions/detail/1891235439/) |
 | Find All Numbers Disappeared in an Array | [`Find_All_Numbers_Disappeared_in_an_Array.java`](Find_All_Numbers_Disappeared_in_an_Array.java) | [View](https://leetcode.com/submissions/detail/1892267913/) |
+| How Many Numbers Are Smaller Than the Current Number? | [`How_Many_Numbers_Are_Smaller_Than_the_Current_Number.java`](How_Many_Numbers_Are_Smaller_Than_the_Current_Number.java) | [View](https://leetcode.com/submissions/detail/1893492506/) |
 
 ---
 

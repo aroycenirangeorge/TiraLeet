@@ -58,6 +58,7 @@ The repository serves as:
 | How Many Numbers Are Smaller Than the Current Number? | [`How_Many_Numbers_Are_Smaller_Than_the_Current_Number.java`](How_Many_Numbers_Are_Smaller_Than_the_Current_Number.java) | [View](https://leetcode.com/submissions/detail/1893492506/) |
 | Find Minimum Operations to Make All Elements Divisible by Three | [`Find_Minimum_Operations_to_Make_All_Elements_Divisible_by_Three.java`](Find_Minimum_Operations_to_Make_All_Elements_Divisible_by_Three.java) | [View](https://leetcode.com/submissions/detail/1894610853/) |
 | Evaluate Reverse Polish Notation | [`Evaluate_Reverse_Polish_Notation.java`](Evaluate_Reverse_Polish_Notation.java) | [View](https://leetcode.com/submissions/detail/1895549567/) |
+| Baseball Game | [`Baseball_Game.java`](Baseball_Game.java) | [View](https://leetcode.com/submissions/detail/1896171272/) |
 
 ---
 

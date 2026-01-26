@@ -59,6 +59,7 @@ The repository serves as:
 | Find Minimum Operations to Make All Elements Divisible by Three | [`Find_Minimum_Operations_to_Make_All_Elements_Divisible_by_Three.java`](Find_Minimum_Operations_to_Make_All_Elements_Divisible_by_Three.java) | [View](https://leetcode.com/submissions/detail/1894610853/) |
 | Evaluate Reverse Polish Notation | [`Evaluate_Reverse_Polish_Notation.java`](Evaluate_Reverse_Polish_Notation.java) | [View](https://leetcode.com/submissions/detail/1895549567/) |
 | Baseball Game | [`Baseball_Game.java`](Baseball_Game.java) | [View](https://leetcode.com/submissions/detail/1896171272/) |
+| Removing Stars From a String | [`Removing_Stars_From_a_String.java`](Removing_Stars_From_a_String.java) | [View](https://leetcode.com/submissionRemoving_Stars_From_a_String.javas/detail/1897146629/) |
 
 ---
 

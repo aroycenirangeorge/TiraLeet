@@ -60,6 +60,7 @@ The repository serves as:
 | Evaluate Reverse Polish Notation | [`Evaluate_Reverse_Polish_Notation.java`](Evaluate_Reverse_Polish_Notation.java) | [View](https://leetcode.com/submissions/detail/1895549567/) |
 | Baseball Game | [`Baseball_Game.java`](Baseball_Game.java) | [View](https://leetcode.com/submissions/detail/1896171272/) |
 | Removing Stars From a String | [`Removing_Stars_From_a_String.java`](Removing_Stars_From_a_String.java) | [View](https://leetcode.com/submissionRemoving_Stars_From_a_String.javas/detail/1897146629/) |
+|Make the String Great | [`Make_the_String_Great.java`](Make_the_String_Great.java) | [View](https://leetcode.com/submissions/detail/1898885802/) |
 
 ---
 

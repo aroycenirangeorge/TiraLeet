@@ -62,6 +62,7 @@ The repository serves as:
 | Removing Stars From a String | [`Removing_Stars_From_a_String.java`](Removing_Stars_From_a_String.java) | [View](https://leetcode.com/submissionRemoving_Stars_From_a_String.javas/detail/1897146629/) |
 | Make the String Great | [`Make_the_String_Great.java`](Make_the_String_Great.java) | [View](https://leetcode.com/submissions/detail/1898885802/) |
 | Transform Array by Parity | [`Transform_Array_by_Parity.java`](Transform_Array_by_Parity.java) | [View](https://leetcode.com/submissions/detail/1899936441/) |
+| Implement Stack using Queues | [`Implement_Stack_using_Queues.java`](Implement_Stack_using_Queues.java) | [View](https://leetcode.com/submissions/detail/1901034071/) |
 
 ---
 

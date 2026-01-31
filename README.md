@@ -64,6 +64,7 @@ The repository serves as:
 | Transform Array by Parity | [`Transform_Array_by_Parity.java`](Transform_Array_by_Parity.java) | [View](https://leetcode.com/submissions/detail/1899936441/) |
 | Implement Stack using Queues | [`Implement_Stack_using_Queues.java`](Implement_Stack_using_Queues.java) | [View](https://leetcode.com/submissions/detail/1901034071/) |
 | Find the Maximum Achievable Number | [`Find_the_Maximum_Achievable_Number.java`](Find_the_Maximum_Achievable_Number.java) | [View](https://leetcode.com/submissions/detail/1902272005/) |
+| Find Smallest Letter Greater Than Target | [`Find_Smallest_Letter_Greater_Than_Target.java`](Find_Smallest_Letter_Greater_Than_Target.java) | [View](https://leetcode.com/submissions/detail/1903066307/) |
 
 ---
 

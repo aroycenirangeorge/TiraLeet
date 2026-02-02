@@ -67,6 +67,7 @@ The repository serves as:
 | Find Smallest Letter Greater Than Target | [`Find_Smallest_Letter_Greater_Than_Target.java`](Find_Smallest_Letter_Greater_Than_Target.java) | [View](https://leetcode.com/submissions/detail/1903066307/) |
 | Pascals Triangle | [`Pascals_Triangle.java`](Pascals_Triangle.java) | [View](https://leetcode.com/submissions/detail/1904046752/) |
 | Divide an Array Into Subarrays With Minimum Cost I | [`Divide_an_Array_Into_Subarrays_With_Minimum_Cost_I.java`](Divide_an_Array_Into_Subarrays_With_Minimum_Cost_I.java) | [View](https://leetcode.com/submissions/detail/1904074455/) |
+| Power of Four | [`Power_of_Four.java`](Power_of_Four.java) | [View](https://leetcode.com/submissions/detail/1905564364/) |
 
 ---
 

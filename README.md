@@ -69,6 +69,7 @@ The repository serves as:
 | Divide an Array Into Subarrays With Minimum Cost I | [`Divide_an_Array_Into_Subarrays_With_Minimum_Cost_I.java`](Divide_an_Array_Into_Subarrays_With_Minimum_Cost_I.java) | [View](https://leetcode.com/submissions/detail/1904074455/) |
 | Power of Four | [`Power_of_Four.java`](Power_of_Four.java) | [View](https://leetcode.com/submissions/detail/1905564364/) |
 | Fizz Buzz | [`Fizz_Buzz.java`](Fizz_Buzz.java) | [View](https://leetcode.com/submissions/detail/1906992819/) |
+| Build an Array with Stack Operations | [`Build_an_Array_with_Stack_Operations.java`](Build_an_Array_with_Stack_Operations.java) | [View](https://leetcode.com/submissions/detail/1908168067/) |
 
 ---
 

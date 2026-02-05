@@ -70,6 +70,7 @@ The repository serves as:
 | Power of Four | [`Power_of_Four.java`](Power_of_Four.java) | [View](https://leetcode.com/submissions/detail/1905564364/) |
 | Fizz Buzz | [`Fizz_Buzz.java`](Fizz_Buzz.java) | [View](https://leetcode.com/submissions/detail/1906992819/) |
 | Build an Array with Stack Operations | [`Build_an_Array_with_Stack_Operations.java`](Build_an_Array_with_Stack_Operations.java) | [View](https://leetcode.com/submissions/detail/1908168067/) |
+| Design Hashset | [`Design_HashSet.java`](Design_HashSet.java) | [View](https://leetcode.com/submissions/detail/1909071309/) |
 
 ---
 

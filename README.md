@@ -72,6 +72,7 @@ The repository serves as:
 | Build an Array with Stack Operations | [`Build_an_Array_with_Stack_Operations.java`](Build_an_Array_with_Stack_Operations.java) | [View](https://leetcode.com/submissions/detail/1908168067/) |
 | Design Hashset | [`Design_HashSet.java`](Design_HashSet.java) | [View](https://leetcode.com/submissions/detail/1909071309/) |
 | Find Lucky Integer in an Array | [`Find_Lucky_Integer_in_an_Array.java`](Find_Lucky_Integer_in_an_Array.java) | [View](https://leetcode.com/submissions/detail/1910392906/) |
+| Remove Trailing Zeros From a String | [`Remove_Trailing_Zeros_From_a_String.java`](Remove_Trailing_Zeros_From_a_String.java) | [View](https://leetcode.com/submissions/detail/1911403418/) |
 
 ---
 

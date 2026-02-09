@@ -74,6 +74,7 @@ The repository serves as:
 | Find Lucky Integer in an Array | [`Find_Lucky_Integer_in_an_Array.java`](Find_Lucky_Integer_in_an_Array.java) | [View](https://leetcode.com/submissions/detail/1910392906/) |
 | Remove Trailing Zeros From a String | [`Remove_Trailing_Zeros_From_a_String.java`](Remove_Trailing_Zeros_From_a_String.java) | [View](https://leetcode.com/submissions/detail/1911403418/) |
 | Best Time to Buy and Sell Stock | [`Best_Time_to_Buy_and_Sell_Stock.java`](Best_Time_to_Buy_and_Sell_Stock.java) | [View](https://leetcode.com/submissions/detail/1912303397/) |
+| Longest Substring Without Repeating Characters | [`Longest_Substring_Without_Repeating_Characters.java`](Longest_Substring_Without_Repeating_Characters.java) | [View](https://leetcode.com/submissions/detail/1913757889/) |
 
 ---
 

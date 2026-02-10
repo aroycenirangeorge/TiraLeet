@@ -1,4 +1,4 @@
-class Solution {
+class Solution{
     public int sumOfUnique(int[] nums) {
         Map<Integer,Integer> frequency= new HashMap<>();
         int sum=0;

@@ -77,6 +77,7 @@ The repository serves as:
 | Longest Substring Without Repeating Characters | [`Longest_Substring_Without_Repeating_Characters.java`](Longest_Substring_Without_Repeating_Characters.java) | [View](https://leetcode.com/submissions/detail/1913757889/) |
 | Sum of Unique Elements | [`Sum_of_Unique_Elements.java`](Sum_of_Unique_Elements.java) | [View](https://leetcode.com/submissions/detail/1914803867/) |
 | Buy Two Chocolates | [`Buy_Two_Chocolates.java`](Buy_Two_Chocolates.java) | [View](https://leetcode.com/submissions/detail/1915606320/) |
+| Check if the Sentence is Pangram | [`Check_if_the_Sentence_is_Pangram.java`](Check_if_the_Sentence_is_Pangram.java) | [View](https://leetcode.com/submissions/detail/1917136293/) |
 
 ---
 

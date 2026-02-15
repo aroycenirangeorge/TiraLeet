@@ -79,8 +79,8 @@ The repository serves as:
 | Buy Two Chocolates | [`Buy_Two_Chocolates.java`](Buy_Two_Chocolates.java) | [View](https://leetcode.com/submissions/detail/1915606320/) |
 | Check if the Sentence is Pangram | [`Check_if_the_Sentence_is_Pangram.java`](Check_if_the_Sentence_is_Pangram.java) | [View](https://leetcode.com/submissions/detail/1917136293/) | 
 | kth Largest Element in an Array | [`kth_Largest_Element_in_an_Array.java`](kth_Largest_Element_in_an_Array.java) | [View](https://leetcode.com/submissions/detail/1918082276/) |
-| Find Missing and Repeated Values | [`Find_Missing_and_Repeated_Values.java`](Find_Missing_and_Repeated_Values.java) | [View](https://leetcode.com/submissions/detail/1920172709/) |
-| Add Binary | [`Add_Binary.java`](Add_Binary.java) | [View]() |
+| Find Missing and Repeated Values | [`Find_Missing_and_Repeated_Values.java`](Find_Missing_and_Repeated_Values.java) | [View](https://leetcode.com/submissions/detail/1919191061/) |
+| Add Binary | [`Add_Binary.java`](Add_Binary.java) | [View](https://leetcode.com/submissions/detail/1920172709/) |
 
 ---
 

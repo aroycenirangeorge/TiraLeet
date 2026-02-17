@@ -82,6 +82,8 @@ The repository serves as:
 | Find Missing and Repeated Values | [`Find_Missing_and_Repeated_Values.java`](Find_Missing_and_Repeated_Values.java) | [View](https://leetcode.com/submissions/detail/1919191061/) |
 | Add Binary | [`Add_Binary.java`](Add_Binary.java) | [View](https://leetcode.com/submissions/detail/1920172709/) |
 | Reverse Bits | [`Reverse_Bits.java`](Reverse_Bits.java) | [View](https://leetcode.com/submissions/detail/1921249115/) |
+| Nim Game | [`Nim_Game.java`](Nim_Game.java) | [View](https://leetcode.com/submissions/detail/1922388207/) |
+
 
 ---
 

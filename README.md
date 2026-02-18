@@ -83,7 +83,7 @@ The repository serves as:
 | Add Binary | [`Add_Binary.java`](Add_Binary.java) | [View](https://leetcode.com/submissions/detail/1920172709/) |
 | Reverse Bits | [`Reverse_Bits.java`](Reverse_Bits.java) | [View](https://leetcode.com/submissions/detail/1921249115/) |
 | Nim Game | [`Nim_Game.java`](Nim_Game.java) | [View](https://leetcode.com/submissions/detail/1922388207/) |
-
+| Binary Number with Alternating Bits | [`Binary_Number_with_Alternating_Bits.java`](Binary_Number_with_Alternating_Bits.java) | [View](https://leetcode.com/submissions/detail/1923530694/) |
 
 ---
 

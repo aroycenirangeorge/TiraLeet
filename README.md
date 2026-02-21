@@ -86,6 +86,7 @@ The repository serves as:
 | Binary Number with Alternating Bits | [`Binary_Number_with_Alternating_Bits.java`](Binary_Number_with_Alternating_Bits.java) | [View](https://leetcode.com/submissions/detail/1923530694/) |
 | Intersection of Two Arrays | [`Intersection_of_Two_Arrays.java`](Intersection_of_Two_Arrays.java) | [View](https://leetcode.com/submissions/detail/1924646678/) |
 | Special Array I | [`Special_Array_I.java`](Special_Array_I.java) | [View](https://leetcode.com/submissions/detail/1925548352/) 
+| Climbing Stairs | [`Climbing_Stairs.java`](Climbing_Stairs.java) | [View](https://leetcode.com/submissions/detail/1926452180/) 
 
 ---
 

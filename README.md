@@ -88,6 +88,7 @@ The repository serves as:
 | Special Array I | [`Special_Array_I.java`](Special_Array_I.java) | [View](https://leetcode.com/submissions/detail/1925548352/) 
 | Climbing Stairs | [`Climbing_Stairs.java`](Climbing_Stairs.java) | [View](https://leetcode.com/submissions/detail/1926452180/) 
 | Invert Binary Tree | [`Invert_Binary_Tree.java`](Invert_Binary_Tree.java) | [View](https://leetcode.com/submissions/detail/1927096272/) 
+| Maximum Depth of Binary Tree | [`Maximum_Depth_of_Binary_Tree.java`](Maximum_Depth_of_Binary_Tree.java) | [View](https://leetcode.com/submissions/detail/1928590023/) 
 
 ---
 

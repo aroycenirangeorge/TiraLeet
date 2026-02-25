@@ -90,6 +90,7 @@ The repository serves as:
 | Invert Binary Tree | [`Invert_Binary_Tree.java`](Invert_Binary_Tree.java) | [View](https://leetcode.com/submissions/detail/1927096272/) 
 | Maximum Depth of Binary Tree | [`Maximum_Depth_of_Binary_Tree.java`](Maximum_Depth_of_Binary_Tree.java) | [View](https://leetcode.com/submissions/detail/1928590023/) 
 | Reverse Linked List | [`Reverse_Linked_List.java`](Reverse_Linked_List.java) | [View](https://leetcode.com/submissions/detail/1929754741/) 
+| Daily Temperatures | [`Daily_Temperatures.java`](Daily_Temperatures.java) | [View](https://leetcode.com/submissions/detail/1930940112/) 
 
 ---
 

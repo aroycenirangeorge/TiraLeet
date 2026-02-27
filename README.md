@@ -92,6 +92,7 @@ The repository serves as:
 | Reverse Linked List | [`Reverse_Linked_List.java`](Reverse_Linked_List.java) | [View](https://leetcode.com/submissions/detail/1929754741/) 
 | Daily Temperatures | [`Daily_Temperatures.java`](Daily_Temperatures.java) | [View](https://leetcode.com/submissions/detail/1930940112/) 
 | Matrix Diagonal Sum | [`Matrix_Diagonal_Sum.java`](Matrix_Diagonal_Sum.java) | [View](https://leetcode.com/submissions/detail/1932007875/) 
+| Binary Search | [`Binary_Search.java`](Binary_Search.java) | [View](https://leetcode.com/submissions/detail/1932889440/) 
 
 ---
 

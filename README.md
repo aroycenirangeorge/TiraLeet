@@ -94,6 +94,7 @@ The repository serves as:
 | Matrix Diagonal Sum | [`Matrix_Diagonal_Sum.java`](Matrix_Diagonal_Sum.java) | [View](https://leetcode.com/submissions/detail/1932007875/) 
 | Binary Search | [`Binary_Search.java`](Binary_Search.java) | [View](https://leetcode.com/submissions/detail/1932889440/) 
 | Search Insert Position | [`Search_Insert_Position.java`](Search_Insert_Position.java) | [View](https://leetcode.com/submissions/detail/1933824343/) 
+| SqrtX | [`SqrtX.java`](SqrtX.java) | [View](https://leetcode.com/submissions/detail/1934834101/) 
 
 ---
 

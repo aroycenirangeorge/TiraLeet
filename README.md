@@ -95,6 +95,7 @@ The repository serves as:
 | Binary Search | [`Binary_Search.java`](Binary_Search.java) | [View](https://leetcode.com/submissions/detail/1932889440/) 
 | Search Insert Position | [`Search_Insert_Position.java`](Search_Insert_Position.java) | [View](https://leetcode.com/submissions/detail/1933824343/) 
 | SqrtX | [`SqrtX.java`](SqrtX.java) | [View](https://leetcode.com/submissions/detail/1934834101/) 
+| Find Minimum in Rotated Sorted Array | [`Find_Minimum_in_Rotated_Sorted_Array.java`](Find_Minimum_in_Rotated_Sorted_Array.java) | [View](https://leetcode.com/submissions/detail/1935782212/) 
 
 ---
 

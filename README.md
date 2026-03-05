@@ -98,6 +98,7 @@ The repository serves as:
 | Find Minimum in Rotated Sorted Array | [`Find_Minimum_in_Rotated_Sorted_Array.java`](Find_Minimum_in_Rotated_Sorted_Array.java) | [View](https://leetcode.com/submissions/detail/1935782212/) 
 | Flipping an Image | [`Flipping_an_Image.java`](Flipping_an_Image.java) | [View](https://leetcode.com/submissions/detail/1936883793/) 
 | Reverse Words in a String III | [`Reverse_Words_in_a_String_III.java`](Reverse_Words_in_a_String_III.java) | [View](https://leetcode.com/submissions/detail/1937808719/) 
+| Valid Perfect Square | [`Valid_Perfect_Square.java`](Valid_Perfect_Square.java) | [View](https://leetcode.com/submissions/detail/1939034515/) 
 
 ---
 

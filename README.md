@@ -100,6 +100,7 @@ The repository serves as:
 | Reverse Words in a String III | [`Reverse_Words_in_a_String_III.java`](Reverse_Words_in_a_String_III.java) | [View](https://leetcode.com/submissions/detail/1937808719/) 
 | Valid Perfect Square | [`Valid_Perfect_Square.java`](Valid_Perfect_Square.java) | [View](https://leetcode.com/submissions/detail/1939034515/) 
 | Remove Duplicates from Sorted Array | [`Remove_Duplicates_from_Sorted_Array.java`](Remove_Duplicates_from_Sorted_Array.java)| [View](https://leetcode.com/submissions/detail/1940995590/) 
+| Search in Rotated Sorted Array | [`Search_in_Rotated_Sorted_Array.java`](Search_in_Rotated_Sorted_Array.java) | [View](https://leetcode.com/submissions/detail/1942026999/) 
 
 ---
 

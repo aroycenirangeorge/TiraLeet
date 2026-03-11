@@ -102,6 +102,7 @@ The repository serves as:
 | Remove Duplicates from Sorted Array | [`Remove_Duplicates_from_Sorted_Array.java`](Remove_Duplicates_from_Sorted_Array.java)| [View](https://leetcode.com/submissions/detail/1940995590/) 
 | Search in Rotated Sorted Array | [`Search_in_Rotated_Sorted_Array.java`](Search_in_Rotated_Sorted_Array.java) | [View](https://leetcode.com/submissions/detail/1942026999/) 
 | Koko Eating Bananas | [`Koko_Eating_Bananas.java`](Koko_Eating_Bananas.java) | [View](https://leetcode.com/submissions/detail/1944024298/) 
+| Complement of Base 10 Integer | [`Complement_of_Base_10_Integer.java`](Complement_of_Base_10_Integer.java) | [View](https://leetcode.com/submissions/detail/1945071183/) 
 
 ---
 

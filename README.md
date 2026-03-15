@@ -104,6 +104,7 @@ The repository serves as:
 | Koko Eating Bananas | [`Koko_Eating_Bananas.java`](Koko_Eating_Bananas.java) | [View](https://leetcode.com/submissions/detail/1944024298/) 
 | Complement of Base 10 Integer | [`Complement_of_Base_10_Integer.java`](Complement_of_Base_10_Integer.java) | [View](https://leetcode.com/submissions/detail/1945071183/) 
 | Validate Binary Search Tree | [`Validate_Binary_Search_Tree.java`](Validate_Binary_Search_Tree.java) | [View](https://leetcode.com/submissions/detail/1947971939/) 
+| Delete Node in a Linked List | [`Delete_Node_in_a_Linked_List.java`](Delete_Node_in_a_Linked_List.java) | [View](https://leetcode.com/submissions/detail/1948930533/) 
 
 ---
 

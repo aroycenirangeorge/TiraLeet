@@ -106,6 +106,7 @@ The repository serves as:
 | Validate Binary Search Tree | [`Validate_Binary_Search_Tree.java`](Validate_Binary_Search_Tree.java) | [View](https://leetcode.com/submissions/detail/1947971939/) 
 | Delete Node in a Linked List | [`Delete_Node_in_a_Linked_List.java`](Delete_Node_in_a_Linked_List.java) | [View](https://leetcode.com/submissions/detail/1948930533/) 
 | Convert Binary Number in a Linked List to Integer | [`Convert_Binary_Number_in_a_Linked_List_to_Integer.java`](Convert_Binary_Number_in_a_Linked_List_to_Integer.java) | [View](https://leetcode.com/submissions/detail/1950084982/) 
+| Isomorphic Strings | [`Isomorphic_Strings.java`](Isomorphic_Strings.java) | [View](https://leetcode.com/submissions/detail/1954035745/) 
 
 ---
 

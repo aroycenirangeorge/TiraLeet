@@ -108,6 +108,7 @@ The repository serves as:
 | Convert Binary Number in a Linked List to Integer | [`Convert_Binary_Number_in_a_Linked_List_to_Integer.java`](Convert_Binary_Number_in_a_Linked_List_to_Integer.java) | [View](https://leetcode.com/submissions/detail/1950084982/) 
 | Isomorphic Strings | [`Isomorphic_Strings.java`](Isomorphic_Strings.java) | [View](https://leetcode.com/submissions/detail/1954035745/) 
 | Final Price with a Special Discount in a Shop | [`Final_Price_with_a_Special_Discount_in_a_Shop.java`](Final_Price_with_a_Special_Discount_in_a_Shop.java) | [View](https://leetcode.com/submissions/detail/1954455854/) 
+| Merge Nodes in Between Zeros | [`Merge_Nodes_in_Between_Zeros.java`](Merge_Nodes_in_Between_Zeros.java) | [View](https://leetcode.com/submissions/detail/1957949597/) 
 
 ---
 

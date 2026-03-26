@@ -110,6 +110,7 @@ The repository serves as:
 | Final Price with a Special Discount in a Shop | [`Final_Price_with_a_Special_Discount_in_a_Shop.java`](Final_Price_with_a_Special_Discount_in_a_Shop.java) | [View](https://leetcode.com/submissions/detail/1954455854/) 
 | Merge Nodes in Between Zeros | [`Merge_Nodes_in_Between_Zeros.java`](Merge_Nodes_in_Between_Zeros.java) | [View](https://leetcode.com/submissions/detail/1957949597/) 
 | Remove Linked List Elements | [`Remove_Linked_List_Elements.java`](Remove_Linked_List_Elements.java) | [View](https://leetcode.com/submissions/detail/1959016613/) 
+| Middle of the Linked List | [`Middle_of_the_Linked_List.java`](Middle_of_the_Linked_List.java) | [View](https://leetcode.com/submissions/detail/1960136223/) 
 
 ---
 

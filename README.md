@@ -113,6 +113,7 @@ The repository serves as:
 | Middle of the Linked List | [`Middle_of_the_Linked_List.java`](Middle_of_the_Linked_List.java) | [View](https://leetcode.com/submissions/detail/1960136223/) 
 | Matrix Similarity After Cyclic Shifts | [`Matrix_Similarity_After_Cyclic_Shifts.java`](Matrix_Similarity_After_Cyclic_Shifts.java) | [View](https://leetcode.com/submissions/detail/1961077166/) 
 | Mirror Distance of an Integer | [`Mirror_Distance_of_an_Integer.java`](Mirror_Distance_of_an_Integer.java) | [View](https://leetcode.com/submissions/detail/1961961777/) 
+| Find Valid Pair of Adjacent Digits in String | [`Find_Valid_Pair_of_Adjacent_Digits_in_String.java`](Find_Valid_Pair_of_Adjacent_Digits_in_String.java) | [View](https://leetcode.com/submissions/detail/1962874757/) 
 
 ---
 

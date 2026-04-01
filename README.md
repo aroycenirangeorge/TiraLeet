@@ -116,6 +116,7 @@ The repository serves as:
 | Find Valid Pair of Adjacent Digits in String | [`Find_Valid_Pair_of_Adjacent_Digits_in_String.java`](Find_Valid_Pair_of_Adjacent_Digits_in_String.java) | [View](https://leetcode.com/submissions/detail/1962874757/) 
 | Compute Alternating Sum | [`Compute_Alternating_Sum.java`](Compute_Alternating_Sum.java) | [View](https://leetcode.com/submissions/detail/1963931224/) 
 | Rearrange Array Elements by Sign | [`Rearrange_Array_Elements_by_Sign.java`](Rearrange_Array_Elements_by_Sign.java) | [View](https://leetcode.com/submissions/detail/1964983527/) 
+| Replace All Digits with Characters | [`Replace_All_Digits_with_Characters.java`](Replace_All_Digits_with_Characters.java) | [View](https://leetcode.com/submissions/detail/1965995065/) 
 
 ---
 

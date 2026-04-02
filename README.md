@@ -117,6 +117,7 @@ The repository serves as:
 | Compute Alternating Sum | [`Compute_Alternating_Sum.java`](Compute_Alternating_Sum.java) | [View](https://leetcode.com/submissions/detail/1963931224/) 
 | Rearrange Array Elements by Sign | [`Rearrange_Array_Elements_by_Sign.java`](Rearrange_Array_Elements_by_Sign.java) | [View](https://leetcode.com/submissions/detail/1964983527/) 
 | Replace All Digits with Characters | [`Replace_All_Digits_with_Characters.java`](Replace_All_Digits_with_Characters.java) | [View](https://leetcode.com/submissions/detail/1965995065/) 
+| Merge Sorted Array | [`Merge_Sorted_Array.java`](Merge_Sorted_Array.java) | [View](https://leetcode.com/submissions/detail/1967013328/) 
 
 ---
 

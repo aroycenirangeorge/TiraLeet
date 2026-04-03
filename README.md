@@ -1,7 +1,7 @@
 # 🚀 TiraLeet
 
 TiraLeet is my personal repository containing **LeetCode solutions implemented exclusively in Java**.  
-This repository is focused on strengthening my understanding of **Data Structures and Algorithms** while maintaining **clean, readable, and efficient Java code**.
+This repository is focused on strengthening my understanding of **Data Structures and Algorithms** while maintaining **clean, readable, effective, and efficient Java code**.
 
 The repository serves as:
 - A structured space for **consistent DSA practice**

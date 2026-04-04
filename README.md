@@ -118,7 +118,6 @@ The repository serves as:
 | Rearrange Array Elements by Sign | [`Rearrange_Array_Elements_by_Sign.java`](Rearrange_Array_Elements_by_Sign.java) | [View](https://leetcode.com/submissions/detail/1964983527/) 
 | Replace All Digits with Characters | [`Replace_All_Digits_with_Characters.java`](Replace_All_Digits_with_Characters.java) | [View](https://leetcode.com/submissions/detail/1965995065/) 
 | Merge Sorted Array | [`Merge_Sorted_Array.java`](Merge_Sorted_Array.java) | [View](https://leetcode.com/submissions/detail/1967013328/) 
-
 | Maximum Product Difference Between Two Pairs | [`Maximum_Product_Difference_Between_Two_Pairs.java`](Maximum_Product_Difference_Between_Two_Pairs.java) | [View](https://leetcode.com/submissions/detail/1968722660/) 
 
 ---

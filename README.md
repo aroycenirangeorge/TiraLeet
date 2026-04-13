@@ -120,6 +120,7 @@ The repository serves as:
 | Merge Sorted Array | [`Merge_Sorted_Array.java`](Merge_Sorted_Array.java) | [View](https://leetcode.com/submissions/detail/1967013328/) 
 | Maximum Product Difference Between Two Pairs | [`Maximum_Product_Difference_Between_Two_Pairs.java`](Maximum_Product_Difference_Between_Two_Pairs.java) | [View](https://leetcode.com/submissions/detail/1968722660/) 
 | Merge Two Sorted Lists | [`Merge_Two_Sorted_Lists.java`](Merge_Two_Sorted_Lists.java) | [View](https://leetcode.com/submissions/detail/1976365430/) 
+| Minimum Distance to the Target Element | [`Minimum_Distance_to_the_Target_Element.java`](Minimum_Distance_to_the_Target_Element.java) | [View](https://leetcode.com/submissions/detail/1977349244/)
 
 ---
 

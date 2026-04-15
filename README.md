@@ -122,6 +122,7 @@ The repository serves as:
 | Merge Two Sorted Lists | [`Merge_Two_Sorted_Lists.java`](Merge_Two_Sorted_Lists.java) | [View](https://leetcode.com/submissions/detail/1976365430/) 
 | Minimum Distance to the Target Element | [`Minimum_Distance_to_the_Target_Element.java`](Minimum_Distance_to_the_Target_Element.java) | [View](https://leetcode.com/submissions/detail/1977349244/)
 | Remove Duplicates from Sorted List | [`Remove_Duplicates_from_Sorted_List.java`](Remove_Duplicates_from_Sorted_List.java) | [View](https://leetcode.com/submissions/detail/1978300667/)
+| Shortest Distance to Target String in a Circular Array | [`Shortest_Distance_to_Target_String_in_a_Circular_Array.java`](Shortest_Distance_to_Target_String_in_a_Circular_Array.java) | [View](https://leetcode.com/submissions/detail/1979328926/)
 
 ---
 

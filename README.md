@@ -6,7 +6,7 @@ This repository is focused on strengthening my understanding of **Data Structure
 The repository serves as:
 - A structured space for **consistent DSA practice**
 - A **revision-friendly reference**
-- A preparation base for **technical interviews using Java**
+- A preparation base for **technical interviews** using Java
 
 ---
 

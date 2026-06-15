@@ -124,6 +124,7 @@ The repository serves as:
 | Remove Duplicates from Sorted List | [`Remove_Duplicates_from_Sorted_List.java`](Remove_Duplicates_from_Sorted_List.java) | [View](https://leetcode.com/submissions/detail/1978300667/)
 | Shortest Distance to Target String in a Circular Array | [`Shortest_Distance_to_Target_String_in_a_Circular_Array.java`](Shortest_Distance_to_Target_String_in_a_Circular_Array.java) | [View](https://leetcode.com/submissions/detail/1979328926/)
 | Restore Finishing Order | [`Restore_Finishing_Order.java`](Restore_Finishing_Order.java) | [View](https://leetcode.com/submissions/detail/1980121606/) 
+| Average Salary Excluding the Minimum and Maximum Salary | [`Average_Salary_Excluding_the_Minimum_and_Maximum_Salary.java`](Average_Salary_Excluding_the_Minimum_and_Maximum_Salary.java) | [View](https://leetcode.com/submissions/detail/2033688537/) 
 
 ---
 

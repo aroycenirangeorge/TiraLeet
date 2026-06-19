@@ -127,6 +127,7 @@ The repository serves as:
 | Average Salary Excluding the Minimum and Maximum Salary | [`Average_Salary_Excluding_the_Minimum_and_Maximum_Salary.java`](Average_Salary_Excluding_the_Minimum_and_Maximum_Salary.java) | [View](https://leetcode.com/submissions/detail/2033688537/) 
 | Trapping Rain Water | [`Trapping_Rain_Water.java`](Trapping_Rain_Water.java) | [View](https://leetcode.com/submissions/detail/2034633961/) 
 | Transpose Matrix | [`Transpose_Matrix.java`](Transpose_Matrix.java) | [View](https://leetcode.com/submissions/detail/2036356718/) 
+| Find the Index of the First Occurence in a String | [`Find_the_Index_of_the_First_Occurence_in_a_String.java`](Find_the_Index_of_the_First_Occurence_in_a_String.java) | [View](https://leetcode.com/submissions/detail/2038239046/) 
 
 ---
 

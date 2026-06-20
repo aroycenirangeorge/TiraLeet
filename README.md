@@ -128,6 +128,7 @@ The repository serves as:
 | Trapping Rain Water | [`Trapping_Rain_Water.java`](Trapping_Rain_Water.java) | [View](https://leetcode.com/submissions/detail/2034633961/) 
 | Transpose Matrix | [`Transpose_Matrix.java`](Transpose_Matrix.java) | [View](https://leetcode.com/submissions/detail/2036356718/) 
 | Find the Index of the First Occurence in a String | [`Find_the_Index_of_the_First_Occurence_in_a_String.java`](Find_the_Index_of_the_First_Occurence_in_a_String.java) | [View](https://leetcode.com/submissions/detail/2038239046/) 
+| First Bad Version | [`First_Bad_Version.java`](First_Bad_Version.java) | [View](https://leetcode.com/submissions/detail/2040089324/) 
 
 ---
 

@@ -129,6 +129,8 @@ The repository serves as:
 | Transpose Matrix | [`Transpose_Matrix.java`](Transpose_Matrix.java) | [View](https://leetcode.com/submissions/detail/2036356718/) 
 | Find the Index of the First Occurence in a String | [`Find_the_Index_of_the_First_Occurence_in_a_String.java`](Find_the_Index_of_the_First_Occurence_in_a_String.java) | [View](https://leetcode.com/submissions/detail/2038239046/) 
 | First Bad Version | [`First_Bad_Version.java`](First_Bad_Version.java) | [View](https://leetcode.com/submissions/detail/2040089324/) 
+| Simple Bank System | [`Simple_Bank_System.java`](Simple_Bank_System.java) | [View](https://leetcode.com/submissions/detail/2042385879/) 
+
 
 ---
 

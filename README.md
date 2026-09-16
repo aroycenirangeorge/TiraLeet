@@ -131,6 +131,7 @@ The repository serves as:
 | First Bad Version | [`First_Bad_Version.java`](First_Bad_Version.java) | [View](https://leetcode.com/submissions/detail/2040089324/) 
 | Simple Bank System | [`Simple_Bank_System.java`](Simple_Bank_System.java) | [View](https://leetcode.com/submissions/detail/2042385879/) 
 | Find Center of Star Graph | [`Find_Center_of_Star_Graph.java`](Find_Center_of_Star_Graph.java) | [View](https://leetcode.com/submissions/detail/2142641705/) 
+| Reverse String Prefix | [`Reverse_String_Prefix.java`](Reverse_String_Prefix.java) | [View](https://leetcode.com/submissions/detail/2143551422/) 
 
 ---
 

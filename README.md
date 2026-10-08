@@ -133,6 +133,8 @@ The repository serves as:
 | Find Center of Star Graph | [`Find_Center_of_Star_Graph.java`](Find_Center_of_Star_Graph.java) | [View](https://leetcode.com/submissions/detail/2142641705/) 
 | Reverse String Prefix | [`Reverse_String_Prefix.java`](Reverse_String_Prefix.java) | [View](https://leetcode.com/submissions/detail/2143551422/) 
 | Maximum Product of Two Elements in an Array | [`Maximum_Product_of_Two_Elements_in_an_Array.java`](Maximum_Product_of_Two_Elements_in_an_Array.java) | [View](https://leetcode.com/submissions/detail/2166506147/) 
+| Smallest Index with Digit Sum Equal to Index | [`Smallest_Index_with_Digit_Sum_Equal_to_Index.java`](Smallest_Index_with_Digit_Sum_Equal_to_Index.java) | [View](https://leetcode.com/submissions/detail/2166521290/) 
+
 
 ---
 

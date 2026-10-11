@@ -136,6 +136,8 @@ The repository serves as:
 | Smallest Index with Digit Sum Equal to Index | [`Smallest_Index_with_Digit_Sum_Equal_to_Index.java`](Smallest_Index_with_Digit_Sum_Equal_to_Index.java) | [View](https://leetcode.com/submissions/detail/2166521290/) 
 | Find All Duplicates in an Array | [`Find_All_Duplicates_in_an_Array.java`](Find_All_Duplicates_in_an_Array.java) | [View](https://leetcode.com/submissions/detail/2168140206/) 
 | Find the Duplicate Number | [`Find_the_Duplicate_Number.java`](Find_the_Duplicate_Number.java) | [View](https://leetcode.com/submissions/detail/2168143493/) 
+| Sum of Squares of Special Elements | [`Sum_of_Squares_of_Special_Elements.java`](Sum_of_Squares_of_Special_Elements.java) | [View](https://leetcode.com/submissions/detail/2169198129/) 
+
 
 
 ---

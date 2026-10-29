@@ -138,6 +138,7 @@ The repository serves as:
 | Find the Duplicate Number | [`Find_the_Duplicate_Number.java`](Find_the_Duplicate_Number.java) | [View](https://leetcode.com/submissions/detail/2168143493/) 
 | Sum of Squares of Special Elements | [`Sum_of_Squares_of_Special_Elements.java`](Sum_of_Squares_of_Special_Elements.java) | [View](https://leetcode.com/submissions/detail/2169198129/) 
 | First Letter to Appear Twice | [`First_Letter_to_Appear_Twice.java`](First_Letter_to_Appear_Twice.java) | [View](https://leetcode.com/submissions/detail/2169183382/) 
+| Find the Difference | [`Find_the_Difference.java`](Find_the_Difference.java) | [View](https://leetcode.com/submissions/detail/2184549766/) 
 
 ---
 
